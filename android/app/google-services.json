@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "839362226363",
+    "firebase_url": "https://cloud-kitchen-a0b6d-default-rtdb.firebaseio.com",
+    "project_id": "cloud-kitchen-a0b6d",
+    "storage_bucket": "cloud-kitchen-a0b6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839362226363:android:a67d9bbcb363da7cdea19e",
+        "android_client_info": {
+          "package_name": "com.kotcproject.kotcbha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839362226363-h8naufurimvl5t743ac7enoirpjt8bid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7rOIq0jjRT-PCsM-3Of-LU4B1MNA5eO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839362226363-bokiubknkhpk04cngfeft3g300lindq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
